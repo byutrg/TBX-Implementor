@@ -10,6 +10,7 @@ Brigham Young University was founded in 1875 and the Translation Research Group 
 
 ## TBX Public Dialect Definitions
 
+* [TBX-Core](http://ltac-global.github.io/TBX-Core_dialect)
 * [TBX-Min](http://ltac-global.github.io/TBX-Min_dialect)
 * [TBX-Basic](http://ltac-global.github.io/TBX-Basic_dialect)
 
