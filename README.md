@@ -16,7 +16,7 @@ Brigham Young University was founded in 1875 and the Translation Research Group 
 
 ## TBX Public Module Definitions
 
-* Core Module - Link coming soon...
+* [Core Module](https://ltac-global.github.io/TBX_core_module)
     * [Core Module RNG schema](https://raw.githubusercontent.com/LTAC-Global/TBX_Core_RNG/master/TBXcoreStructV03.rng)
 * [Min Module](http://ltac-global.github.io/TBX_min_module)
 * [Basic Module](http://ltac-global.github.io/TBX_basic_module)
