@@ -1,6 +1,6 @@
 # Welcome to the TBX Implementor
 
-The TBX Implementor is a launching point to point to helpful resources for the use of TermBase eXchange (TBX). It is hosted by the Brigham Young University Translation Research Group.
+The TBX Implementor is a launching point to helpful resources for the use of TermBase eXchange (TBX). This GitHub page is operated by the Brigham Young University Translation Research Group.
 
 Brigham Young University was founded in 1875 and the Translation Research Group is proud to be a part of it.
 
